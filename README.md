@@ -1,6 +1,5 @@
 ## 📜 **`README.md`**
 
-```
 # 🔐 Password Strength Predictor
 
 This project is a simple **Streamlit-based web application** that analyzes and predicts the strength of a given password. It classifies the password as **Weak**, **Normal**, or **Strong** based on its composition (uppercase, lowercase, numbers, and special characters).
