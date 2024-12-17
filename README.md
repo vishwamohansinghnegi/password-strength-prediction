@@ -116,16 +116,6 @@ password-strength-predictor/
 
 ---
 
-## 🙌 **Credits**
-
-Developed by **Vishwamohan Singh Negi**
-
-Let me know if you'd like any additional changes or features! 😊
-
-Here's a `README.md` file tailored for your project:
-
----
-
 ## 🙌 Contact
 
 - **Vishwamohan Singh Negi**  
