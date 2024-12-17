@@ -1,5 +1,5 @@
 import streamlit as st
-import joblib
+import pickle
 import numpy as np
 
 def lowercase_freq(x):
@@ -36,8 +36,8 @@ def predict(password):
         return 'Password is strong'
     
 # Load trained model and vectorizer
-clf = joblib.load("model.pkl")   # Replace with your model path
-vectorizer = joblib.load("vectorizer.pkl")   # Replace with your vectorizer path
+clf = pickle.load(open("model.pkl" , 'rb'))   # Replace with your model path
+vectorizer = pickle.load(open("vectorizer.pkl" , 'rb'))   # Replace with your vectorizer path
 
 # Streamlit App Layout
 def main():
