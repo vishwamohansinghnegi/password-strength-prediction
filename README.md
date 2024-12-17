@@ -1,10 +1,6 @@
-Here's a `README.md` and `requirements.txt` for your **Password Strength Predictor** project.
-
----
-
 ## 📜 **`README.md`**
 
-```markdown
+```
 # 🔐 Password Strength Predictor
 
 This project is a simple **Streamlit-based web application** that analyzes and predicts the strength of a given password. It classifies the password as **Weak**, **Normal**, or **Strong** based on its composition (uppercase, lowercase, numbers, and special characters).
@@ -36,9 +32,11 @@ The app uses the Streamlit library to provide an interactive user interface wher
 - **Python**  
 - **Streamlit**  
 - **scikit-learn**  
-- **pickle**
-- **joblib**  
-
+- **pickle** 
+- **matplotlib**
+- **seaborn**
+- **numpy**
+- **pandas**
 ---
 
 ## 📦 **Installation**
@@ -137,4 +135,4 @@ Here's a `README.md` file tailored for your project:
 - [LinkedIn](https://www.linkedin.com/in/vishwamohan-singh-negi-001b8a257/)
 ---
 
-Feel free to reach out if you have questions or feature requests. Enjoy building secure apps! 🔐🚀
+Feel free to reach out if you have questions or feature requests! 🔐🚀
